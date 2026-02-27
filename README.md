@@ -15,6 +15,7 @@ Este é um **projeto de aprendizagem** desenvolvido como parte do programa Rocke
 
 ### Styling & UI
 - **Tailwind CSS** 4 - Framework de utility-first CSS
+- **shadcn/ui** - Biblioteca de componentes reutilizáveis construídos com Radix UI e Tailwind CSS
 - **Lucide React** 0.575.0 - Ícones SVG para React
 - **Radix UI** 1.2.4 - Componentes UI headless baseados em primitivos
 - **class-variance-authority** 0.7.1 - Manejo de variantes de classes
