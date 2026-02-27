@@ -4,7 +4,9 @@ Um blog moderno construído com Next.js, React, TypeScript e Tailwind CSS. Proje
 
 ## 📋 Sobre o Projeto
 
-Site blog completo com as seguintes funcionalidades:
+Este é um **projeto educacional** com o propósito de aprender Next.js através do programa **Rocketseat ONE**. O projeto consiste em um site blog completo que serve como um case prático para aplicar os conceitos aprendidos sobre Next.js, React e desenvolvimento web moderno.
+
+### Funcionalidades Implementadas:
 - **Home**: Página inicial com apresentação do blog
 - **Sobre**: Página com informações sobre o autor/blog
 - **Blog**: Listagem de posts
